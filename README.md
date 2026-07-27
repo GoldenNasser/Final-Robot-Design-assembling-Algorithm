@@ -22,22 +22,16 @@ You can view the interactive 3D design directly in your browser here:
 Step-by-step instructions to build the physical robot after printing the parts:
 
 ### Phase 1: Prepare the Parts
-1. [cite_start]**Print all plastic parts:** 3D print the main body, the 4 upper legs (thighs), and the 4 lower legs (shins)[cite: 1674].
-2. [cite_start]**Gather hardware:** Collect all servo motors, metal bearings, metal pins (shafts), and screws[cite: 1675].
+1. **Print all plastic parts:** 3D print the main body, the 4 upper legs (thighs), and the 4 lower legs (shins).
+2. **Gather hardware:** Collect all servo motors, metal bearings, metal pins (shafts), and screws.
 
 ### Phase 2: Build the Legs (Do this 4 times)
-1. [cite_start]**Insert the bearings:** Push the small circular metal bearings into the round holes on the upper leg and lower leg joints[cite: 1676].
-2. [cite_start]**Attach the lower leg:** Put the lower leg (shin) inside the upper leg (thigh) joint[cite: 1677].
-3. [cite_start]**Insert the pin:** Push the metal pin (shaft) through the bearings to lock the upper and lower leg together[cite: 1678]. [cite_start]Make sure the joint can swing freely[cite: 1679].
-4. [cite_start]**Install the knee motor:** Push the servo motor into the rectangular hole in the upper leg[cite: 1679]. [cite_start]Use screws to fix it in place[cite: 1680]. [cite_start]Connect the motor gear to the leg linkage[cite: 1680].
+1. **Insert the bearings:** Push the small circular metal bearings into the round holes on the upper leg and lower leg joints.
+2. **Attach the lower leg:** Put the lower leg (shin) inside the upper leg (thigh) joint.
+3. **Insert the pin:** Push the metal pin (shaft) through the bearings to lock the upper and lower leg together. Make sure the joint can swing freely.
+4. **Install the knee motor:** Push the servo motor into the rectangular hole in the upper leg. Use screws to fix it in place. Connect the motor gear to the leg linkage.
 
 ### Phase 3: Connect Legs to the Main Body
-1. [cite_start]**Install the hip motors:** Push the 4 servo motors into the rectangular holes on the sides of the main body (chassis)[cite: 1681]. [cite_start]Use screws to secure them[cite: 1682].
-2. [cite_start]**Attach the legs:** Slide the top hole of the assembled leg onto the hip motor gear on the main body[cite: 1682].
-3. [cite_start]**Lock the legs:** Put a screw through the leg into the motor gear so the leg does not fall off[cite: 1683].
-
-### Phase 4: Install Electronics
-1. [cite_start]**Add sensors:** Push the 2 ultrasonic sensors into the four round holes at the front of the robot's face[cite: 1684].
-2. [cite_start]**Route the wires:** Take all the motor wires and pull them inside the main body[cite: 1685].
-3. [cite_start]**Connect the brain:** Plug the wires into your microcontroller (like a Raspberry Pi or Arduino) and battery inside the body[cite: 1686].
-4. [cite_start]**Close the body:** Put the top cover on the robot to protect the wires[cite: 1687].
+1. **Install the hip motors:** Push the 4 servo motors into the rectangular holes on the sides of the main body (chassis). Use screws to secure them.
+2. **Attach the legs:** Slide the top hole of the assembled leg onto the hip motor gear on the main body.
+3. **Lock the legs:** Put a screw through the leg into the motor gear so the leg does not fall off.
