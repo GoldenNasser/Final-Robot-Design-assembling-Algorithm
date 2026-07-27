@@ -4,11 +4,6 @@ This repository contains the mechanical CAD files for a fully 3D-printable robot
 
 The design was focusing on real-world hardware integration, durability, and easy 3D printing and assembly.
 
-## Technical Specifications
-* **Dimensions:** 600 mm (Length) x 350 mm (Height).
-* **Actuators:** Designed to house 12x MG996R standard metal gear servos for the main joints.
-* **Sensors:** V-shaped angled front face with custom recessed sockets for two HC-SR04 ultrasonic sensors.
-* **Joints:** Uses a mechanical linkage system with a 0.5 mm tolerance to ensure smooth movement after 3D printing.
 
 ## 3D CAD Model
 You can view the interactive 3D design directly in your browser here:
